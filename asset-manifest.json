@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/animationverse/static/css/main.8a652571.css",
+    "main.js": "/animationverse/static/js/main.7eab5b2e.js",
+    "static/media/boxicons.svg": "/animationverse/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/animationverse/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/animationverse/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/animationverse/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/animationverse/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/movieplanet.png": "/animationverse/static/media/movieplanet.d1c6f2f3f65c3f4f6de4.png",
+    "static/media/boxicons.woff2": "/animationverse/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/animationverse/index.html",
+    "main.8a652571.css.map": "/animationverse/static/css/main.8a652571.css.map",
+    "main.7eab5b2e.js.map": "/animationverse/static/js/main.7eab5b2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a652571.css",
+    "static/js/main.7eab5b2e.js"
+  ]
+}
